@@ -1,0 +1,1 @@
+mensagem = "Sejam todos bem vindo à disciplina de Python para Análise de Dados"
