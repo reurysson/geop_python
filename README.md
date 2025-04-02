@@ -10,7 +10,7 @@
 A disciplina Introdução à **Linguagem Python para Análise de Dados** é um disciplina optativa do curso superior de tecnologia em Geoprocessamento do Instituto Federal do Piauí. Oferecida geralmente no 3° módulo, essa disciplina tem como objetivo capacitar os alunos no uso da linguagem Python nas diversas etapas que envolvem a organização, o tratamento e a análise de dados clássicos e dados geoespaciais.
 
 - A disciplina iniciou em **21/03/2025** e será ministrada até **25/07/2025**.
-- As aulas ocorrem semanalmete às sextas-feiras, das 16h às 18h, na modalidade presencial.
+- As aulas ocorrem semanalmente às sextas-feiras, das 16h às 18h, na modalidade presencial.
 - Os materiais serão disponibilizados à medida que as aulas acontecerem. Todos os arquivos da disciplina (documentos, slides, dados e scripts) estarão disponíveis tanto aqui no GitHub quanto o plataforma [Open Science Framework (OSF)](https://osf.io/8j6ng/).
   
 Fiquem à vontade para copiar, adaptar e utilizar da maneira que considerarem mais apropriada. Pedimos apenas a gentileza de nos citar adequadamente.
