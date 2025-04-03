@@ -17,9 +17,9 @@ Fiquem à vontade para copiar, adaptar e utilizar da maneira que considerarem ma
 
 ## Ambiente de Aprendizagem
 
-Optamos pelo uso do IDE Jupyter Lab como ambiente de ensino e aprendizagem. Dessa forma, todos os scripts serão disponibilidade no formato `.ipynb`. 
+Optamos pelo uso do IDE Jupyter Lab como ambiente de ensino e aprendizagem. Dessa forma, todos os scripts serão disponibilidade no formato `.ipynb`.
 
-Para acompanhamento da disciplina, recomendamos a instalação do [Anaconda](https://www.anaconda.com/), que inclui o Jypyter Lab. Todos os notebooks também são compatíveis com o [Google Colab](https://colab.research.google.com/), caso prefira esta plataforma. Como guia de instalação do Anaconda, sugerimos o vídeo do canal [Asimov Academy no YouTube](https://youtu.be/tp4_BGU02VQ). Após a instalação, basta pesquisa por "Anaconda Prompt" no seu computador e digitar `jupyter lab`. Em seguida o Jupyter Lab será aberto em uma guia do seu navegador. 
+Para acompanhamento da disciplina, recomendamos a instalação do [Anaconda](https://www.anaconda.com/), que inclui o Jypyter Lab. Todos os notebooks também são compatíveis com o [Google Colab](https://colab.research.google.com/), caso prefira esta plataforma. Como guia de instalação do Anaconda, sugerimos o vídeo do canal [Asimov Academy no YouTube](https://youtu.be/tp4_BGU02VQ). Após a instalação, basta pesquisar por "Anaconda Prompt" no seu computador e digitar `jupyter lab`. Em seguida o Jupyter Lab será aberto em uma guia do seu navegador. 
 
 
 
