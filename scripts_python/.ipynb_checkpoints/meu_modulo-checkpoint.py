@@ -4,6 +4,7 @@ disciplina = "Introdução à Linguagem Python para Análise de Dados"
 
 periodo = "III"
 
+#_____________________________________________________________
 def saudacao(nome):
     print(f"Seja bem vindo à disciplina de Python, {nome}!")
 
